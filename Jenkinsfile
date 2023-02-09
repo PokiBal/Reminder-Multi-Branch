@@ -3,7 +3,7 @@ pipeline {
 	stages{
 		stage("Run code"){
 			steps {
-				echo "the branch: main"
+				echo "my name is Inbal"
 			}
 		}
 	}
